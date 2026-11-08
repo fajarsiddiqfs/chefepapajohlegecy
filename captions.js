@@ -7,5 +7,8 @@ window.CAPTIONS = {
   "C7pX-4oh1zp": "Freshly baked Baguette Sandwhich",
   "C6-hhT-rbRg": "Kway Teow Goreng Udang",
   "DeOYU8VStId": "Sambal Udang Daun Kari",
-  "DeF3lsPEu4c": "Egg Noodles Beef Soup"
+  "DeF3lsPEu4c": "Egg Noodles Beef Soup",
+  "DeBQtI9J_Ud": "Fried Boiled Potatoes with Sunshine Egg",
+  "DcyP5z4ib_0": "Spiced Black Pepper Crayfish",
+  "DacOEpHlJt4": "Shakshuka For Dinner"
 };
